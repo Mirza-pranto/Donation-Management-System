@@ -1,0 +1,23 @@
+<style>
+#ques {
+    min-height: 433px;
+}
+
+/* Custom CSS for smaller jumbotron */
+.custom-jumbotron {
+    padding: 2rem 1rem; /* Reduced padding */
+    margin: 2rem auto; /* Centered the jumbotron */
+    background-color: #343a40;
+    color: white;
+    border-radius: 0.5rem;
+    max-width: 800px; /* Limits the width of the jumbotron */
+}
+
+.custom-jumbotron h1 {
+    font-size: 2rem; /* Smaller heading */
+}
+
+.custom-jumbotron p {
+    font-size: 1.1rem; /* Reduced paragraph size */
+}
+</style>
